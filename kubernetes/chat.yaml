@@ -30,7 +30,7 @@ spec:
 
           imagePullPolicy: IfNotPresent
 
-          image: chat:latest
+          image: mohammed97/chatapp:chat
 
           ports:
 
